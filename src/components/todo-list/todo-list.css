@@ -2,5 +2,6 @@
   padding: .25rem .75rem;
 }
 .todo-list {
-  margin-top: 10px
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
